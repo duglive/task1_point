@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dagalaev/Desktop/Git/task1_point/src/main.cpp
+iostream
+-
+xipoint.h
+/Users/dagalaev/Desktop/Git/task1_point/src/xipoint.h
+
+/Users/dagalaev/Desktop/Git/task1_point/src/xipoint.cpp
+xipoint.h
+/Users/dagalaev/Desktop/Git/task1_point/src/xipoint.h
+algorithm
+-
+cmath
+-
+
+/Users/dagalaev/Desktop/Git/task1_point/src/xipoint.h
+
