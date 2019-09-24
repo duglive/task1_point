@@ -1,0 +1,3 @@
+/Users/dagalaev/Desktop/Git/task1_point/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dagalaev/Desktop/Git/task1_point/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dagalaev/Desktop/Git/task1_point/src/cmake-build-debug/CMakeFiles/xipoint_main.dir
