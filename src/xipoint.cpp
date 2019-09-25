@@ -151,6 +151,17 @@ namespace xi {
         _size = 0;
     }
 
+    double PointArray::computePath() const
+    {
+        double sum = 0;
+        for (int i = 0; i < _size - 1; ++i)
+        {
+            sum = sum + _arr[i].dist(_arr[i+1]);
+        }
+
+        return sum;
+    }
+
     PointArray::Uint PointArray::getSize() const
     {
         return _size;
